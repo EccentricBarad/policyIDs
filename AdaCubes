@@ -1,7 +1,18 @@
-{
+[
+  {
     "project": "AdaCubes",
     "tags": [
         "AdaCubes"
     ],
     "policies": ["a078831a7953724cfb0b2c2dc084c916fef6f32a24c2e1b89dba3807"]
-}
+  },
+  {
+    "project": "AdaCubes Halloween",
+    "tags": [
+      "AdaCubes"
+    ],
+    "policies": [
+      "5142bbeb1816b202126f78874dcd0a4aedd43111ac76a269b00746c9"
+    ]
+  },
+]
